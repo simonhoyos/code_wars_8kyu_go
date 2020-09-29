@@ -13,4 +13,5 @@
 1. [Get planet name by id](https://www.codewars.com/kata/515e188a311df01cba000003) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/get_planet_name_by_id.go)
 1. [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/makeuppercase.go)
 1. [Count odd numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/count_odd_numbers_below_n.go)
+1. [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/is_this_my_tail.go)
 
