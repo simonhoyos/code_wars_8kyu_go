@@ -8,4 +8,5 @@
 1. [Function 1 - hello world](https://www.codewars.com/kata/5a03b3f6a1c9040084001765) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/function_1_hello_world.go)
 1. [Beginner series #2 clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/beginner_series_2_clock.go)
 1. [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/if_you_cant_sleep_just_count_sheep.go)
+1. [Expressions matter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/expressions_matter.go)
 
