@@ -18,4 +18,5 @@
 1. [Grasshopper - messi goals function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/grasshopper_messi_goals_function.go)
 1. [Grasshopper - terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/grasshopper_terminal_game_combat_function.go)
 1. [Watermelon](https://www.codewars.com/kata/55192f4ecd82ff826900089e) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/watermelon.go)
+1. [Get nth even number](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/get_nth_even_number.go)
 
