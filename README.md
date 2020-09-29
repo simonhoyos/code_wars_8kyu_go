@@ -16,4 +16,5 @@
 1. [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/is_this_my_tail.go)
 1. [Surface area and volume of a box](https://www.codewars.com/kata/565f5825379664a26b00007c) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/surface_area_and_volume_of_a_box.go)
 1. [Grasshopper - messi goals function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/grasshopper_messi_goals_function.go)
+1. [Grasshopper - terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/grasshopper_terminal_game_combat_function.go)
 
