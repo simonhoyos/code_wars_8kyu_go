@@ -11,4 +11,5 @@
 1. [Expressions matter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/expressions_matter.go)
 1. [Is he gonna survive](https://www.codewars.com/kata/59ca8246d751df55cc00014c) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/is_he_gonna_survive.go)
 1. [Get planet name by id](https://www.codewars.com/kata/515e188a311df01cba000003) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/get_planet_name_by_id.go)
+1. [MakeUpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/makeuppercase.go)
 
