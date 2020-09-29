@@ -15,4 +15,5 @@
 1. [Count odd numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/count_odd_numbers_below_n.go)
 1. [Is this my tail?](https://www.codewars.com/kata/56f695399400f5d9ef000af5) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/is_this_my_tail.go)
 1. [Surface area and volume of a box](https://www.codewars.com/kata/565f5825379664a26b00007c) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/surface_area_and_volume_of_a_box.go)
+1. [Grasshopper - messi goals function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/grasshopper_messi_goals_function.go)
 
