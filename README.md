@@ -9,4 +9,5 @@
 1. [Beginner series #2 clock](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/beginner_series_2_clock.go)
 1. [If you can't sleep, just count sheep!!](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/if_you_cant_sleep_just_count_sheep.go)
 1. [Expressions matter](https://www.codewars.com/kata/5ae62fcf252e66d44d00008e) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/expressions_matter.go)
+1. [Is he gonna survive](https://www.codewars.com/kata/59ca8246d751df55cc00014c) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/is_he_gonna_survive.go)
 
