@@ -17,4 +17,5 @@
 1. [Surface area and volume of a box](https://www.codewars.com/kata/565f5825379664a26b00007c) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/surface_area_and_volume_of_a_box.go)
 1. [Grasshopper - messi goals function](https://www.codewars.com/kata/55f73be6e12baaa5900000d4) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/grasshopper_messi_goals_function.go)
 1. [Grasshopper - terminal game combat function](https://www.codewars.com/kata/586c1cf4b98de0399300001d) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/grasshopper_terminal_game_combat_function.go)
+1. [Watermelon](https://www.codewars.com/kata/55192f4ecd82ff826900089e) - [Solution](https://github.com/simonhoyos/code_wars_8kyu_go/blob/master/watermelon.go)
 
